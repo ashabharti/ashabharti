@@ -10,47 +10,23 @@
 ### 👩‍🎓 Education
 
 - 🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
-  Birla Institute of Technology, Mesra (2024–2026) — *CGPA: 8.7*
+  Birla Institute of Technology, Mesra
 
 - 🎓 **B.Tech in Computer Science & Engineering**  
-  National Institute of Science & Technology, Berhampur (2020–2024) — *CGPA: 8.3*
-
----
-
-### 💼 Internship
-
-- **Web Development Intern**  
-  🏢 CCL Coalfields Limited, Ranchi (June–July 2023)  
-  - Developed a static, responsive departmental website using HTML and CSS  
-  - Gained hands-on experience with web fundamentals and internal deployment
-
----
-
-### 🧠 Projects
-
-#### 🔍 Deepfake Detection Using CNN
-- Built a deep learning model with **EfficientNetB4** to detect fake faces  
-- Applied **data augmentation**, **model tuning**, and evaluated via confusion matrix  
-- Achieved ~80% test accuracy and reduced false positives by 12%  
-- **Tech:** Python, TensorFlow, Keras, OpenCV
-
-#### 💰 Loan Eligibility Prediction
-- Used **Decision Tree** model to predict loan approval based on features like credit history and income  
-- Achieved 86% accuracy on real-world loan datasets  
-- **Tech:** Python, Pandas, NumPy, Scikit-learn, Seaborn
+  National Institute of Science & Technology, Berhampur
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 🧑‍💻 Languages & Tools
+#### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 📦 Frameworks & Libraries
+#### 📦 Libraries & Frameworks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -67,22 +43,32 @@
 
 ### 🏆 Achievements & Certifications
 
-- 🏅 Gold Medalist – Kho-Kho (1st place at university-level)
 - 💡 Winner – Smart Helmet IoT Presentation (2022)
 - 🤝 Volunteer – National Conference on Energy Sustainability (2024)
 - 📜 NPTEL Certification – Design & Analysis of Algorithms
 - 🎯 Event Coordinator – Renewable Energy Club & College Fest (2022–2024)
-- 🏏 Captain – Girls Kho-Kho Team (2024)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asha-Bharti&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Asha-Bharti&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asha-Bharti&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-bharti-471382244/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-bharti-471382244 )
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhartiasha44@gmail.com)
 
 ---
 
 > ✨ “From data to decisions, I love making machines learn smarter.”  
 > 📚 Currently learning: Advanced Computer Vision & Generative AI
-
