@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asha Bharti</h1>
 <h3 align="center">🚀 M.Tech AI/ML | Deep Learning & Computer Vision Enthusiast</h3>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashabharti&label=Profile%20views&color=0e75b6&style=flat" alt="ashabharti" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Always+curious+about+AI+%26+ML;Solving+real-world+problems;Believer+in+practical+learning" alt="Typing SVG" />
 </p>
@@ -67,7 +69,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-bharti-471382244 )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-bharti-471382244)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhartiasha44@gmail.com)
 
 ---
