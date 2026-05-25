@@ -57,10 +57,13 @@
 
 ### 🏆 Achievements & Certifications
 
-- 💡 Winner – Smart Helmet IoT Presentation (2022)
+- 🧠 Research Paper Accepted at **IEEE ETAACT 2026** for *Few-Shot Prototypical Networks for Multi-Class Alzheimer’s Disease Classification*
+- 📜 HackerRank Certified – SQL (Intermediate)
+- 🥇 Gold Medalist – University-Level Kho-Kho Competition (2024)
+- 💡 Presented Smart Helmet IoT Project at Technical Innovation Event (2022)
 - 🤝 Volunteer – National Conference on Energy Sustainability (2024)
-- 📜 NPTEL Certification – Design & Analysis of Algorithms
-- 🎯 Event Coordinator – Renewable Energy Club & College Fest (2022–2024)
+- 🎯 Event Coordinator – Renewable Energy Club & College Fest Activities (2022–2024)
+- 📚 NPTEL Certification – Design & Analysis of Algorithms
 
 ---
 
