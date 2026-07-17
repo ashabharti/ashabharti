@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asha Bharti</h1>
 <h3 align="center">🚀 M.Tech AI/ML | Deep Learning & Computer Vision Enthusiast</h3>
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashabharti&label=Profile%20views&color=0e75b6&style=flat" alt="ashabharti" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Always+curious+about+AI+%26+ML;Solving+real-world+problems;Believer+in+practical+learning" alt="Typing SVG" />
 </p>
